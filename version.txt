@@ -1,2 +1,1 @@
-development version: 1.0.0-dev
-released version 1.0.0
+1.0.0-dev
